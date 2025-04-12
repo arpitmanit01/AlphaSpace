@@ -7,3 +7,6 @@
 [submodule "ZShort"]
 	path = ZShort
 	url = git@github.com:arpitmanit01/ZShort.git
+[submodule "DevSpace"]
+	path = DevSpace
+	url = git@github.com:arpitmanit01/DevSpace.git
