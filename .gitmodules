@@ -1,0 +1,9 @@
+[submodule "Project-Reso"]
+	path = Project-Reso
+	url = git@github.com:arpitmanit01/Project-Reso.git
+[submodule "DWPing"]
+	path = DWPing
+	url = git@github.com:arpitmanit01/DWPing.git
+[submodule "ZShort"]
+	path = ZShort
+	url = git@github.com:arpitmanit01/ZShort.git
